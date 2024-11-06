@@ -1,0 +1,36 @@
+0. adim
+ Ork Birlikleri:
+ - Mizrakcilar Adet: 647
+ - Ork Dövüþçüleri Adet: 602
+ - Varg Binicileri Adet: 0
+ - Troller Adet: 682
+
+1. adim
+ Insan Birlikleri:
+ - Piyadeler Adet: 1000
+ - Okcular Adet: 1000
+ - Suvariler Adet: 1000
+ - Kusatma Makineleri Adet: 1000
+
+2. adim
+ Ork Birlikleri:
+ - Mizrakcilar Adet: 218
+ - Ork Dövüþçüleri Adet: 153
+ - Varg Binicileri Adet: 0
+ - Troller Adet: 275
+
+3. adim
+ Insan Birlikleri:
+ - Piyadeler Adet: 1000
+ - Okcular Adet: 1000
+ - Suvariler Adet: 1000
+ - Kusatma Makineleri Adet: 1000
+
+4. adim
+ Ork Birlikleri:
+ - Mizrakcilar Adet: 0
+ - Ork Dövüþçüleri Adet: 0
+ - Varg Binicileri Adet: 0
+ - Troller Adet: 0
+
+Ork Ligi yenildi!
